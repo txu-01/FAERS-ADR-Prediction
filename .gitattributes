@@ -1,0 +1,2 @@
+ASCII/*.txt filter=lfs diff=lfs merge=lfs -text
+outputs/*.pkl filter=lfs diff=lfs merge=lfs -text
